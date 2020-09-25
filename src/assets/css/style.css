@@ -1,0 +1,19 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  background: #403b4a;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #403b4a, #e7e9bb);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #403b4a, #e7e9bb);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+  background: #bbd2c5;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #bbd2c5, #536976);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #bbd2c5, #536976);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
